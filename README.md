@@ -1,12 +1,22 @@
-# React + Vite
+# 🔍 GitHub Profile Finder
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Um buscador de perfis GitHub feito com **React** e **Axios**.
 
-Currently, two official plugins are available:
+## 🚀 Funcionalidades
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Busca de perfis pelo nome de usuário.
+- Exibição de:
+  - Nome, @username
+  - Avatar
+  - Bio
+  - Link para o GitHub
 
-## Expanding the ESLint configuration
+## 🛠️ Tecnologias
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- React
+- Axios
+- Bootstrap 5 (ou CSS puro)
+
+## 🤔 Como usar?
+
+Primeiro, clone este repositório para seu ambiente local. Em seguida, inicie o projeto usando o clássico `npm run dev`, e vá até o localhost indicado no console.  Sem muitos segredos!
